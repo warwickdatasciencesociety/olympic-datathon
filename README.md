@@ -2,7 +2,7 @@
 
 ## Welcome to the Datathon
 
-The Olympics Datathon is designed to be a language-agnostic mini "hackathon" for students with varying levels of experience. The focus of the datathon will be the exploratory data analysis - or as we like to call it data storytelling - of the given Olympics dataset*. We invite everyone who is interested in data science to participate, regardless of their technical background. This one day datathon offers an interesting dataset to explore, guidance along the way and free pizza!
+The Olympics Datathon is designed to be a language-agnostic mini "hackathon" for students with varying levels of experience. The focus of the datathon will be the exploratory data analysis - or as we like to call it data storytelling - of the given Olympics dataset*. We invite everyone who is interested in data science to participate, regardless of their technical background. This one day datathon offers an interesting dataset to explore, guidance along the way, and free pizza!
 
 **Disclaimer**: This is an EDA and not a ML competition.
 
@@ -30,9 +30,9 @@ The Olympics Datathon is designed to be a language-agnostic mini "hackathon" for
 
 ### Important First Steps
 
-1. Make sure you have registered on the [Google form](). Otherwise, you will not be invited/accepted to the Microsoft Teams group.
+1. Make sure you have registered on the [Google form](https://forms.gle/Ha132dXnuX67UTeq6). Otherwise, you will not be invited/accepted to the Microsoft Teams group.
 2. Join the [Datathon Teams Group](https://teams.microsoft.com/l/team/19%3aVRNugWwFSGZDR5W0mMzRDXogLk8o9oVkKIKUOo6Hm5Q1%40thread.tacv2/conversations?groupId=f388c915-9b20-4a56-9d3b-01b8070fdc6e&tenantId=09bacfbd-47ef-4465-9265-3546f2eaf6bc) and turn on notifications to stay up to date. The hybrid session will be hosted there.
-3. Click 'Going' on the datathon's [Facebook event]() and invite your friends if you want.
+3. Click 'Going' on the datathon's [Facebook event](https://www.facebook.com/events/196771662535947/?ref=newsfeed) and invite your friends if you want.
 
 All other relevant details should be available on this page. If you have any questions feel free to reach out by using the contact links [below](#contact). Viel Spass! 
 
@@ -59,8 +59,8 @@ Will be published on October 16th.
 ### Resources
 
 - **[Google colab](https://colab.research.google.com/drive/13HZpzjbAf9_MmwazE587eNhMCzWJcHXf?usp=sharing) skeleton code**
-- [Python for data science](https://warwickdatasciencesociety.github.io/python-for-data-science/session-one/)  teaching session 1 by WDSS
-- [R basics](https://github.com/warwickdatasciencesociety/into-the-tidyverse) 
+- [Python for Data Science](https://warwickdatasciencesociety.github.io/python-for-data-science/session-one/)  teaching session 1 by WDSS
+- [Tidyverse R basics](https://github.com/warwickdatasciencesociety/into-the-tidyverse) 
 
 ### Submission
 
