@@ -2,7 +2,7 @@
 
 ## Welcome to the Datathon
 
-The Olympics Datathon is designed to be a language-agnostic mini "hackathon" for students with varying levels of experience. The focus of the datathon will be the exploratory data analysis - or as we like to call it data storytelling - of the given Olympics dataset*. We invite everyone who is interested in data science to participate, regardless of their technical background. This one day datathon offers an interesting dataset to explore, guidance along the way, and free pizza!
+The Olympic Datathon is designed to be a language-agnostic mini "hackathon" for students with varying levels of experience. The focus of the datathon will be the exploratory data analysis - or as we like to call it data storytelling - of the given Olympics dataset*. We invite everyone who is interested in data science to participate, regardless of their technical background. This one day datathon offers an interesting dataset to explore, guidance along the way, and free pizza!
 
 **Disclaimer**: This is an EDA and not a ML competition.
 
