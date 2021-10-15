@@ -58,7 +58,7 @@ Will be published on October 16th.
 
 ### Resources
 
-- **[Google colab](https://colab.research.google.com/drive/13HZpzjbAf9_MmwazE587eNhMCzWJcHXf?usp=sharing) skeleton code**
+- **[Google colab](https://colab.research.google.com/github/warwickdatasciencesociety/olympic-datathon/blob/main/resources/Public_Sample_Notebook_Olympic_Datathon.ipynb#scrollTo=ELA20me2A9nW) skeleton code**. Save a copy in Drive and follow along in the teaching session.
 - [Python for Data Science](https://warwickdatasciencesociety.github.io/python-for-data-science/session-one/)  teaching session 1 by WDSS
 - [Tidyverse R basics](https://github.com/warwickdatasciencesociety/into-the-tidyverse) 
 
