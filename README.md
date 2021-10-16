@@ -54,7 +54,7 @@ All events on October 16th will be held **both** in-person as well as online. Fo
 
 ### Data Story-Telling Question
 
-Will be published on October 16th.
+Which factors determine whether an Olympic athlete wins a medal or not?
 
 ### Resources
 
