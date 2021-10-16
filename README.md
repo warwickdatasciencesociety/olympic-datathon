@@ -56,6 +56,15 @@ All events on October 16th will be held **both** in-person as well as online. Fo
 
 Which factors determine whether an Olympic athlete wins a medal or not?
 
+### Sample Notebook Structure
+
+1. Summary statistics
+2. Univariant analysis (e.g. Medal)
+3. Bivariant analysis (e.g. Height vs Weight)
+4. General Linear Model (If you feel brave enough. This is not part of the EDA!)
+
+Make sure to elaborate on your observations!
+
 ### Resources
 
 - **[Google colab](https://colab.research.google.com/github/warwickdatasciencesociety/olympic-datathon/blob/main/resources/Public_Sample_Notebook_Olympic_Datathon.ipynb#scrollTo=ELA20me2A9nW) skeleton code**. Save a copy in Drive and follow along in the teaching session.
