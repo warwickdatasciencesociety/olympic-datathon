@@ -63,15 +63,16 @@ Congratulations to the team consisting of Ammar Salem, Dulnath Jayasinghe, Sofia
 ### Sample Notebook Structure
 
 1. Summary statistics
-2. Univariant analysis (e.g. Medal)
-3. Bivariant analysis (e.g. Height vs Weight)
-4. General Linear Model (If you feel brave enough. This is not part of the EDA!)
+2. Univariate analysis (e.g. Medal)
+3. Bivariate analysis (e.g. Height vs Weight)
+4. Statistical modelling and inference (If you feel brave enough. This is not part of the EDA!)
 
 Make sure to elaborate on your observations!
 
 ### Resources
 
 - **[Google colab](https://colab.research.google.com/github/warwickdatasciencesociety/olympic-datathon/blob/main/resources/Public_Sample_Notebook_Olympic_Datathon.ipynb#scrollTo=ELA20me2A9nW) skeleton code**. Save a copy in Drive and follow along in the teaching session.
+- **[Data set](https://raw.githubusercontent.com/warwickdatasciencesociety/olympic-datathon/main/dataset/athlete_events.csv)**
 - [Python for Data Science](https://warwickdatasciencesociety.github.io/python-for-data-science/session-one/)  teaching session 1 by WDSS
 - [Tidyverse R basics](https://github.com/warwickdatasciencesociety/into-the-tidyverse) 
 
