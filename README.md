@@ -56,6 +56,10 @@ All events on October 16th will be held **both** in-person as well as online. Fo
 
 Which factors determine whether an Olympic athlete wins a medal or not?
 
+### Winning notebook (post submission deadline)
+
+Congratulations to the team consisting of Ammar Salem, Dulnath Jayasinghe, Sofia Pangher and Zain Mobarik!
+
 ### Sample Notebook Structure
 
 1. Summary statistics
